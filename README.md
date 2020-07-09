@@ -16,5 +16,5 @@ Example of a classic Glider Gun.
 <br />
 
 <div align="center">
-<img src="gof_gif.gif" />
+<img src="game_of_life/gof_gif.gif" />
 </div>
